@@ -2,12 +2,12 @@
   "templates": [
     {
       "name": "Hotel Info Page",
-      "url": "https://extranet.emergingtravel.com/v3/hotels/{hotelId}/hotel/info",
+      "url": "https://example.com/v3/hotels/{hotelId}/hotel/info",
       "category": "Hotels"
     },
     {
       "name": "Rate Plan Edit",
-      "url": "https://extranet.emergingtravel.com/v3/hotels/{hotelId}/rateplan/{rateId}/edit",
+      "url": "https://example.com/v3/hotels/{hotelId}/rateplan/{rateId}/edit",
       "category": "Rates"
     },
     {

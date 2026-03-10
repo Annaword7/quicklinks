@@ -44,7 +44,7 @@
 1. Откройте расширение (откроется отдельное окно)
 2. В разделе "Шаблоны" заполните форму:
    - **Название**: Например, "Hotel Info Page"
-   - **URL**: `https://extranet.emergingtravel.com/v3/hotels/{hotelId}/hotel/info`
+   - **URL**: `https://example.com/hotels/{hotelId}/info`
    - **Категория**: Например, "Hotels" (опционально)
 3. Нажмите "Добавить"
 
@@ -52,11 +52,11 @@
 
 ```
 Название: Hotel Info
-URL: https://extranet.emergingtravel.com/v3/hotels/{hotelId}/hotel/info
+URL: https://example.com/hotels/{hotelId}/info
 Категория: Hotels
 
 Название: Rate Plan Edit
-URL: https://extranet.emergingtravel.com/v3/hotels/{hotelId}/rateplan/{rateId}/edit
+URL: https://example.com/hotels/{hotelId}/rateplan/{rateId}/edit
 Категория: Rates
 
 Название: GitHub Issue
