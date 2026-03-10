@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Saišu pārvaldība ar mainīgajiem izstrādātājiem, produktu vadītājiem un projektu vadītājiem",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Veidnes",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Izlase",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Vēsture",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Starpliktuve",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Kopējiet vērtības – tās parādīsies šeit",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Pievienot veidni",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Veidnes nosaukums",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL ar mainīgajiem: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategorija (neobligāti)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Pievienot",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtrēt pēc kategorijas:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Visas kategorijas",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Atvērt",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Pievienot izlasei",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Dzēst",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Noņemt",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Notīrīt vēsturi",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Atsvaidzināt",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Nav veidņu. Izveidojiet savu pirmo veidni!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Nav izlases saišu",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Vēsture ir tukša",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Starpliktuve ir tukša",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Lūdzu aizpildiet visus laukus",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Veidne pievienota!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Veidne dzēsta",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Pievienots izlasei!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Noņemts no izlases",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Vēsture notīrīta",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Starpliktuve atjaunināta",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Saite atvērta",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Nokopēts!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Dzēst šo veidni?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Noņemt no izlases?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Notīrīt visu vēsturi?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Lūdzu ievadiet nosaukumu un URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Valoda",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Nav kategorijas",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Valoda mainīta"
+  },
+  "leaveFeedback": {
+    "message": "Atstāt atsauksmi"
+  }
+}

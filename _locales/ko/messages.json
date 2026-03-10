@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "개발자, 제품 관리자 및 프로젝트 관리자를 위한 변수 기반 링크 관리",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "템플릿",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "즐겨찾기",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "기록",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "클립보드",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "값을 복사하세요 - 여기에 표시됩니다",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "템플릿 추가",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "템플릿 이름",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "변수가 있는 URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "카테고리 (선택)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "추가",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "카테고리로 필터:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "모든 카테고리",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "열기",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "즐겨찾기에 추가",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "삭제",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "제거",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "기록 지우기",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "새로고침",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "템플릿이 없습니다. 첫 번째 템플릿을 만들어보세요!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "즐겨찾기 링크가 없습니다",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "기록이 비어 있습니다",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "클립보드가 비어 있습니다",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "모든 필드를 입력해 주세요",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "템플릿이 추가되었습니다!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "템플릿이 삭제되었습니다",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "즐겨찾기에 추가되었습니다!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "즐겨찾기에서 제거되었습니다",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "기록이 지워졌습니다",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "클립보드가 업데이트되었습니다",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "링크가 열렸습니다",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "복사됨!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "이 템플릿을 삭제할까요?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "즐겨찾기에서 제거할까요?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "모든 기록을 지울까요?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "이름과 URL을 입력해 주세요",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "언어",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "카테고리 없음",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "언어가 변경되었습니다"
+  },
+  "leaveFeedback": {
+    "message": "피드백 남기기"
+  }
+}

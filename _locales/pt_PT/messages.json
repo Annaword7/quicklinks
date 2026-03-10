@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Gestão de ligações com variáveis para programadores, gestores de produto e gestores de projeto",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Modelos",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Favoritos",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Histórico",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Área de transferência",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Copie valores – aparecerão aqui",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Adicionar modelo",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Nome do modelo",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL com variáveis: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Categoria (opcional)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Adicionar",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtrar por categoria:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Todas as categorias",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Abrir",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Adicionar aos favoritos",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Eliminar",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Remover",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Limpar histórico",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Atualizar",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Sem modelos. Crie o seu primeiro modelo!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Sem ligações favoritas",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "O histórico está vazio",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "A área de transferência está vazia",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Por favor preencha todos os campos",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Modelo adicionado!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Modelo eliminado",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Adicionado aos favoritos!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Removido dos favoritos",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Histórico limpo",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Área de transferência atualizada",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Ligação aberta",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Copiado!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Eliminar este modelo?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Remover dos favoritos?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Limpar todo o histórico?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Por favor introduza o nome e o URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Idioma",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Sem categoria",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Idioma alterado"
+  },
+  "leaveFeedback": {
+    "message": "Deixar comentário"
+  }
+}

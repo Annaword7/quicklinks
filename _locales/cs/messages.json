@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Správa odkazů s proměnnými pro vývojáře, produktové manažery a projektové manažery",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Šablony",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Oblíbené",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Historie",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Schránka",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Zkopírujte hodnoty – zobrazí se zde",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Přidat šablonu",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Název šablony",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL s proměnnými: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategorie (volitelné)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Přidat",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtrovat podle kategorie:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Všechny kategorie",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Otevřít",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Přidat do oblíbených",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Smazat",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Odstranit",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Vymazat historii",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Obnovit",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Žádné šablony. Vytvořte svou první šablonu!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Žádné oblíbené odkazy",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Historie je prázdná",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Schránka je prázdná",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Vyplňte prosím všechna pole",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Šablona přidána!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Šablona smazána",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Přidáno do oblíbených!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Odstraněno z oblíbených",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Historie vymazána",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Schránka aktualizována",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Odkaz otevřen",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Zkopírováno!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Smazat tuto šablonu?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Odebrat z oblíbených?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Vymazat celou historii?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Vyplňte prosím název a URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Jazyk",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Bez kategorie",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Jazyk změněn"
+  },
+  "leaveFeedback": {
+    "message": "Zanechat zpětnou vazbu"
+  }
+}

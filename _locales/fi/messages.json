@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Linkkien hallinta muuttujilla kehittäjille, tuotepäälliköille ja projektipäälliköille",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Mallit",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Suosikit",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Historia",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Leikepöytä",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Kopioi arvot – ne ilmestyvät tähän",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Lisää malli",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Mallin nimi",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL muuttujilla: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategoria (valinnainen)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Lisää",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Suodata kategorian mukaan:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Kaikki kategoriat",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Avaa",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Lisää suosikkeihin",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Poista",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Poista",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Tyhjennä historia",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Päivitä",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Ei malleja. Luo ensimmäinen mallisi!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Ei suosikkilinkkejä",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Historia on tyhjä",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Leikepöytä on tyhjä",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Täytä kaikki kentät",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Malli lisätty!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Malli poistettu",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Lisätty suosikkeihin!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Poistettu suosikeista",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Historia tyhjennetty",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Leikepöytä päivitetty",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Linkki avattu",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Kopioitu!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Poistetaanko tämä malli?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Poistetaanko suosikeista?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Tyhjennetäänkö koko historia?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Syötä nimi ja URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Kieli",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Ei kategoriaa",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Kieli vaihdettu"
+  },
+  "leaveFeedback": {
+    "message": "Jätä palautetta"
+  }
+}

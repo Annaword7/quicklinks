@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Usimamizi wa viungo na viambajengo kwa wasanidi programu, wasimamizi wa bidhaa na wasimamizi wa miradi",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Violezo",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Vipendwa",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Historia",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Ubao wa kunakili",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Nakili maadili – yataonekana hapa",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Ongeza kiolezo",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Jina la kiolezo",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL na viambajengo: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategoria (si lazima)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Ongeza",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Chuja kwa kategoria:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Kategoria zote",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Fungua",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Ongeza kwenye vipendwa",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Futa",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Ondoa",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Futa historia",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Onyesha upya",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Hakuna violezo. Tengeneza kiolezo chako cha kwanza!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Hakuna viungo vipendwa",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Historia iko tupu",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Ubao wa kunakili uko tupu",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Tafadhali jaza sehemu zote",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Kiolezo kimeongezwa!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Kiolezo kimefutwa",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Kimeongezwa kwenye vipendwa!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Kimeondolewa kwenye vipendwa",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Historia imefutwa",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Ubao wa kunakili umesasishwa",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Kiungo kimefunguliwa",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Imenakilishwa!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Futa kiolezo hiki?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Ondoa kwenye vipendwa?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Futa historia yote?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Tafadhali jaza jina na URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Lugha",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Hakuna kategoria",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Lugha imebadilishwa"
+  },
+  "leaveFeedback": {
+    "message": "Acha maoni"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "การจัดการลิงก์ด้วยตัวแปรสำหรับนักพัฒนา ผู้จัดการผลิตภัณฑ์ และผู้จัดการโครงการ"
+  },
+  "templates": {
+    "message": "เทมเพลต"
+  },
+  "favorites": {
+    "message": "รายการโปรด"
+  },
+  "history": {
+    "message": "ประวัติ"
+  },
+  "clipboard": {
+    "message": "คลิปบอร์ด"
+  },
+  "clipboardHelp": {
+    "message": "คัดลอกค่า - จะปรากฏที่นี่"
+  },
+  "addTemplate": {
+    "message": "เพิ่มเทมเพลต"
+  },
+  "templateName": {
+    "message": "ชื่อเทมเพลต"
+  },
+  "templateUrl": {
+    "message": "URL ที่มีตัวแปร: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "หมวดหมู่ (ไม่บังคับ)"
+  },
+  "add": {
+    "message": "เพิ่ม"
+  },
+  "filterCategory": {
+    "message": "กรองตามหมวดหมู่:"
+  },
+  "allCategories": {
+    "message": "ทุกหมวดหมู่"
+  },
+  "open": {
+    "message": "เปิด"
+  },
+  "addToFavorites": {
+    "message": "เพิ่มในรายการโปรด"
+  },
+  "delete": {
+    "message": "ลบ"
+  },
+  "remove": {
+    "message": "นำออก"
+  },
+  "clearHistory": {
+    "message": "ล้างประวัติ"
+  },
+  "refresh": {
+    "message": "รีเฟรช"
+  },
+  "noTemplates": {
+    "message": "ไม่มีเทมเพลต สร้างเทมเพลตแรกของคุณ!"
+  },
+  "noFavorites": {
+    "message": "ไม่มีลิงก์โปรด"
+  },
+  "noHistory": {
+    "message": "ประวัติว่างเปล่า"
+  },
+  "noClipboard": {
+    "message": "คลิปบอร์ดว่างเปล่า"
+  },
+  "fillAllFields": {
+    "message": "กรุณากรอกข้อมูลในทุกช่อง"
+  },
+  "templateAdded": {
+    "message": "เพิ่มเทมเพลตแล้ว!"
+  },
+  "templateDeleted": {
+    "message": "ลบเทมเพลตแล้ว"
+  },
+  "addedToFavorites": {
+    "message": "เพิ่มในรายการโปรดแล้ว!"
+  },
+  "removedFromFavorites": {
+    "message": "นำออกจากรายการโปรดแล้ว"
+  },
+  "historyCleared": {
+    "message": "ล้างประวัติแล้ว"
+  },
+  "clipboardUpdated": {
+    "message": "อัปเดตคลิปบอร์ดแล้ว"
+  },
+  "linkOpened": {
+    "message": "เปิดลิงก์แล้ว"
+  },
+  "copied": {
+    "message": "คัดลอกแล้ว!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "ลบเทมเพลตนี้?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "นำออกจากรายการโปรด?"
+  },
+  "confirmClearHistory": {
+    "message": "ล้างประวัติทั้งหมด?"
+  },
+  "fillNameAndUrl": {
+    "message": "กรุณากรอกชื่อและ URL"
+  },
+  "language": {
+    "message": "ภาษา"
+  },
+  "noCategory": {
+    "message": "ไม่มีหมวดหมู่"
+  },
+  "languageChanged": {
+    "message": "เปลี่ยนภาษาแล้ว"
+  },
+  "leaveFeedback": {
+    "message": "ให้ข้อเสนอแนะ"
+  }
+}

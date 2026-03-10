@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Gestión de enlaces con variables para desarrolladores, gerentes de producto y gerentes de proyectos",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Plantillas",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Favoritos",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Historial",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Portapapeles",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Copie valores – aparecerán aquí",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Agregar plantilla",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Nombre de la plantilla",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL con variables: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Categoría (opcional)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Agregar",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtrar por categoría:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Todas las categorías",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Abrir",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Agregar a favoritos",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Eliminar",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Quitar",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Borrar historial",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Actualizar",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "No hay plantillas. ¡Crea tu primera plantilla!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "No hay enlaces favoritos",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "El historial está vacío",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "El portapapeles está vacío",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Por favor complete todos los campos",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "¡Plantilla agregada!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Plantilla eliminada",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "¡Agregado a favoritos!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Eliminado de favoritos",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Historial borrado",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Portapapeles actualizado",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Enlace abierto",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "¡Copiado!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "¿Eliminar esta plantilla?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "¿Quitar de favoritos?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "¿Borrar todo el historial?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Por favor ingrese el nombre y la URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Idioma",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Sin categoría",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Idioma cambiado"
+  },
+  "leaveFeedback": {
+    "message": "Dejar comentarios"
+  }
+}

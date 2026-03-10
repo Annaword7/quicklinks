@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Управление ссылками с переменными для разработчиков, продактов и проджектов"
+  },
+  "templates": {
+    "message": "Шаблоны"
+  },
+  "favorites": {
+    "message": "Избранное"
+  },
+  "history": {
+    "message": "История"
+  },
+  "clipboard": {
+    "message": "Буфер обмена"
+  },
+  "clipboardHelp": {
+    "message": "Копируйте данные в браузере — они появятся здесь (работает во всех новых вкладках, открытых после загрузки расширения)"
+  },
+  "addTemplate": {
+    "message": "Добавить шаблон"
+  },
+  "templateName": {
+    "message": "Название шаблона"
+  },
+  "templateUrl": {
+    "message": "URL с переменными: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Категория (опционально)"
+  },
+  "add": {
+    "message": "Добавить"
+  },
+  "filterCategory": {
+    "message": "Фильтр по категории:"
+  },
+  "allCategories": {
+    "message": "Все категории"
+  },
+  "open": {
+    "message": "Открыть"
+  },
+  "addToFavorites": {
+    "message": "В избранное"
+  },
+  "delete": {
+    "message": "Удалить"
+  },
+  "remove": {
+    "message": "Удалить"
+  },
+  "clearHistory": {
+    "message": "Очистить историю"
+  },
+  "refresh": {
+    "message": "Обновить"
+  },
+  "noTemplates": {
+    "message": "Нет шаблонов. Создайте свой первый шаблон!"
+  },
+  "noFavorites": {
+    "message": "Нет избранных ссылок"
+  },
+  "noHistory": {
+    "message": "История пуста"
+  },
+  "noClipboard": {
+    "message": "Буфер пуст"
+  },
+  "fillAllFields": {
+    "message": "Заполните все поля"
+  },
+  "templateAdded": {
+    "message": "Шаблон добавлен!"
+  },
+  "templateDeleted": {
+    "message": "Шаблон удалён"
+  },
+  "addedToFavorites": {
+    "message": "Добавлено в избранное!"
+  },
+  "removedFromFavorites": {
+    "message": "Удалено из избранного"
+  },
+  "historyCleared": {
+    "message": "История очищена"
+  },
+  "clipboardUpdated": {
+    "message": "Буфер обмена обновлён"
+  },
+  "linkOpened": {
+    "message": "Ссылка открыта"
+  },
+  "copied": {
+    "message": "Скопировано!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Удалить этот шаблон?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Удалить из избранного?"
+  },
+  "confirmClearHistory": {
+    "message": "Очистить всю историю?"
+  },
+  "fillNameAndUrl": {
+    "message": "Пожалуйста, заполните название и URL"
+  },
+  "language": {
+    "message": "Язык"
+  },
+  "noCategory": {
+    "message": "Без категории"
+  },
+  "languageChanged": {
+    "message": "Язык изменён"
+  },
+  "leaveFeedback": {
+    "message": "Оставить отзыв"
+  }
+}

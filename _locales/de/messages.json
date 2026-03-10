@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Link-Verwaltung mit Variablen für Entwickler, Produktmanager und Projektmanager"
+  },
+  "templates": {
+    "message": "Vorlagen"
+  },
+  "favorites": {
+    "message": "Favoriten"
+  },
+  "history": {
+    "message": "Verlauf"
+  },
+  "clipboard": {
+    "message": "Zwischenablage"
+  },
+  "clipboardHelp": {
+    "message": "Werte kopieren - sie erscheinen hier"
+  },
+  "addTemplate": {
+    "message": "Vorlage hinzufügen"
+  },
+  "templateName": {
+    "message": "Vorlagenname"
+  },
+  "templateUrl": {
+    "message": "URL mit Variablen: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Kategorie (optional)"
+  },
+  "add": {
+    "message": "Hinzufügen"
+  },
+  "filterCategory": {
+    "message": "Nach Kategorie filtern:"
+  },
+  "allCategories": {
+    "message": "Alle Kategorien"
+  },
+  "open": {
+    "message": "Öffnen"
+  },
+  "addToFavorites": {
+    "message": "Zu Favoriten hinzufügen"
+  },
+  "delete": {
+    "message": "Löschen"
+  },
+  "remove": {
+    "message": "Entfernen"
+  },
+  "clearHistory": {
+    "message": "Verlauf löschen"
+  },
+  "refresh": {
+    "message": "Aktualisieren"
+  },
+  "noTemplates": {
+    "message": "Keine Vorlagen. Erstellen Sie Ihre erste Vorlage!"
+  },
+  "noFavorites": {
+    "message": "Keine Favoriten"
+  },
+  "noHistory": {
+    "message": "Verlauf ist leer"
+  },
+  "noClipboard": {
+    "message": "Zwischenablage ist leer"
+  },
+  "fillAllFields": {
+    "message": "Bitte alle Felder ausfüllen"
+  },
+  "templateAdded": {
+    "message": "Vorlage hinzugefügt!"
+  },
+  "templateDeleted": {
+    "message": "Vorlage gelöscht"
+  },
+  "addedToFavorites": {
+    "message": "Zu Favoriten hinzugefügt!"
+  },
+  "removedFromFavorites": {
+    "message": "Aus Favoriten entfernt"
+  },
+  "historyCleared": {
+    "message": "Verlauf gelöscht"
+  },
+  "clipboardUpdated": {
+    "message": "Zwischenablage aktualisiert"
+  },
+  "linkOpened": {
+    "message": "Link geöffnet"
+  },
+  "copied": {
+    "message": "Kopiert!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Diese Vorlage löschen?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Aus Favoriten entfernen?"
+  },
+  "confirmClearHistory": {
+    "message": "Gesamten Verlauf löschen?"
+  },
+  "fillNameAndUrl": {
+    "message": "Bitte Name und URL ausfüllen"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "noCategory": {
+    "message": "Keine Kategorie"
+  },
+  "languageChanged": {
+    "message": "Sprache geändert"
+  },
+  "leaveFeedback": {
+    "message": "Feedback geben"
+  }
+}

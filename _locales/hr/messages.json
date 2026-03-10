@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Upravljanje veznicama s varijablama za programere, voditelje proizvoda i voditelje projekata",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Predlošci",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Favoriti",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Povijest",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Međuspremnik",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Kopirajte vrijednosti – pojavit će se ovdje",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Dodaj predložak",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Naziv predloška",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL s varijablama: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategorija (neobavezno)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Dodaj",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtriraj po kategoriji:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Sve kategorije",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Otvori",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Dodaj u favorite",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Izbriši",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Ukloni",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Obriši povijest",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Osvježi",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Nema predložaka. Izradite svoj prvi predložak!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Nema omiljenih veza",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Povijest je prazna",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Međuspremnik je prazan",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Molimo ispunite sva polja",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Predložak dodan!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Predložak izbrisan",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Dodano u favorite!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Uklonjeno iz favorita",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Povijest obrisana",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Međuspremnik ažuriran",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Veza otvorena",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Kopirano!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Izbrisati ovaj predložak?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Ukloniti iz favorita?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Obrisati svu povijest?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Molimo unesite naziv i URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Jezik",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Bez kategorije",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Jezik promijenjen"
+  },
+  "leaveFeedback": {
+    "message": "Ostavite povratnu informaciju"
+  }
+}

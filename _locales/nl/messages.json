@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Linkbeheer met variabelen voor ontwikkelaars, productmanagers en projectmanagers"
+  },
+  "templates": {
+    "message": "Sjablonen"
+  },
+  "favorites": {
+    "message": "Favorieten"
+  },
+  "history": {
+    "message": "Geschiedenis"
+  },
+  "clipboard": {
+    "message": "Klembord"
+  },
+  "clipboardHelp": {
+    "message": "Kopieer waarden - ze verschijnen hier"
+  },
+  "addTemplate": {
+    "message": "Sjabloon toevoegen"
+  },
+  "templateName": {
+    "message": "Sjabloonnaam"
+  },
+  "templateUrl": {
+    "message": "URL met variabelen: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Categorie (optioneel)"
+  },
+  "add": {
+    "message": "Toevoegen"
+  },
+  "filterCategory": {
+    "message": "Filteren op categorie:"
+  },
+  "allCategories": {
+    "message": "Alle categorieën"
+  },
+  "open": {
+    "message": "Openen"
+  },
+  "addToFavorites": {
+    "message": "Toevoegen aan favorieten"
+  },
+  "delete": {
+    "message": "Verwijderen"
+  },
+  "remove": {
+    "message": "Verwijderen"
+  },
+  "clearHistory": {
+    "message": "Geschiedenis wissen"
+  },
+  "refresh": {
+    "message": "Vernieuwen"
+  },
+  "noTemplates": {
+    "message": "Geen sjablonen. Maak uw eerste sjabloon!"
+  },
+  "noFavorites": {
+    "message": "Geen favoriete links"
+  },
+  "noHistory": {
+    "message": "Geschiedenis is leeg"
+  },
+  "noClipboard": {
+    "message": "Klembord is leeg"
+  },
+  "fillAllFields": {
+    "message": "Vul alle velden in"
+  },
+  "templateAdded": {
+    "message": "Sjabloon toegevoegd!"
+  },
+  "templateDeleted": {
+    "message": "Sjabloon verwijderd"
+  },
+  "addedToFavorites": {
+    "message": "Toegevoegd aan favorieten!"
+  },
+  "removedFromFavorites": {
+    "message": "Verwijderd uit favorieten"
+  },
+  "historyCleared": {
+    "message": "Geschiedenis gewist"
+  },
+  "clipboardUpdated": {
+    "message": "Klembord bijgewerkt"
+  },
+  "linkOpened": {
+    "message": "Link geopend"
+  },
+  "copied": {
+    "message": "Gekopieerd!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Dit sjabloon verwijderen?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Verwijderen uit favorieten?"
+  },
+  "confirmClearHistory": {
+    "message": "Hele geschiedenis wissen?"
+  },
+  "fillNameAndUrl": {
+    "message": "Vul naam en URL in"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "noCategory": {
+    "message": "Geen categorie"
+  },
+  "languageChanged": {
+    "message": "Taal gewijzigd"
+  },
+  "leaveFeedback": {
+    "message": "Feedback geven"
+  }
+}

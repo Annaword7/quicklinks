@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Gestión de enlaces con variables para desarrolladores, gerentes de producto y gerentes de proyecto"
+  },
+  "templates": {
+    "message": "Plantillas"
+  },
+  "favorites": {
+    "message": "Favoritos"
+  },
+  "history": {
+    "message": "Historial"
+  },
+  "clipboard": {
+    "message": "Portapapeles"
+  },
+  "clipboardHelp": {
+    "message": "Copie valores - aparecerán aquí"
+  },
+  "addTemplate": {
+    "message": "Agregar plantilla"
+  },
+  "templateName": {
+    "message": "Nombre de plantilla"
+  },
+  "templateUrl": {
+    "message": "URL con variables: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Categoría (opcional)"
+  },
+  "add": {
+    "message": "Agregar"
+  },
+  "filterCategory": {
+    "message": "Filtrar por categoría:"
+  },
+  "allCategories": {
+    "message": "Todas las categorías"
+  },
+  "open": {
+    "message": "Abrir"
+  },
+  "addToFavorites": {
+    "message": "Agregar a favoritos"
+  },
+  "delete": {
+    "message": "Eliminar"
+  },
+  "remove": {
+    "message": "Quitar"
+  },
+  "clearHistory": {
+    "message": "Borrar historial"
+  },
+  "refresh": {
+    "message": "Actualizar"
+  },
+  "noTemplates": {
+    "message": "Sin plantillas. ¡Crea tu primera plantilla!"
+  },
+  "noFavorites": {
+    "message": "Sin favoritos"
+  },
+  "noHistory": {
+    "message": "Historial vacío"
+  },
+  "noClipboard": {
+    "message": "Portapapeles vacío"
+  },
+  "fillAllFields": {
+    "message": "Por favor complete todos los campos"
+  },
+  "templateAdded": {
+    "message": "¡Plantilla agregada!"
+  },
+  "templateDeleted": {
+    "message": "Plantilla eliminada"
+  },
+  "addedToFavorites": {
+    "message": "¡Agregado a favoritos!"
+  },
+  "removedFromFavorites": {
+    "message": "Eliminado de favoritos"
+  },
+  "historyCleared": {
+    "message": "Historial borrado"
+  },
+  "clipboardUpdated": {
+    "message": "Portapapeles actualizado"
+  },
+  "linkOpened": {
+    "message": "Enlace abierto"
+  },
+  "copied": {
+    "message": "¡Copiado!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "¿Eliminar esta plantilla?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "¿Quitar de favoritos?"
+  },
+  "confirmClearHistory": {
+    "message": "¿Borrar todo el historial?"
+  },
+  "fillNameAndUrl": {
+    "message": "Por favor complete nombre y URL"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "noCategory": {
+    "message": "Sin categoría"
+  },
+  "languageChanged": {
+    "message": "Idioma cambiado"
+  },
+  "leaveFeedback": {
+    "message": "Dejar comentario"
+  }
+}

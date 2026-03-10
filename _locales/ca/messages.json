@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Gestió d'enllaços amb variables per a desenvolupadors, gestors de producte i gestors de projectes",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Plantilles",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Preferits",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Historial",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Porta-retalls",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Copieu valors – apareixeran aquí",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Afegir plantilla",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Nom de la plantilla",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL amb variables: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Categoria (opcional)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Afegir",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtrar per categoria:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Totes les categories",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Obrir",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Afegir als preferits",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Eliminar",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Treure",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Esborrar historial",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Actualitzar",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "No hi ha plantilles. Creeu la vostra primera plantilla!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "No hi ha enllaços preferits",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "L'historial és buit",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "El porta-retalls és buit",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Ompliu tots els camps",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Plantilla afegida!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Plantilla eliminada",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Afegit als preferits!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Eliminat dels preferits",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Historial esborrat",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Porta-retalls actualitzat",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Enllaç obert",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Copiat!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Eliminar aquesta plantilla?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Eliminar dels preferits?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Esborrar tot l'historial?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Ompliu el nom i l'URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Idioma",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Sense categoria",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Idioma canviat"
+  },
+  "leaveFeedback": {
+    "message": "Deixar comentari"
+  }
+}

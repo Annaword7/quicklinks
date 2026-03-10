@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Gestione dei link con variabili per sviluppatori, product manager e project manager"
+  },
+  "templates": {
+    "message": "Modelli"
+  },
+  "favorites": {
+    "message": "Preferiti"
+  },
+  "history": {
+    "message": "Cronologia"
+  },
+  "clipboard": {
+    "message": "Appunti"
+  },
+  "clipboardHelp": {
+    "message": "Copia i valori - appariranno qui"
+  },
+  "addTemplate": {
+    "message": "Aggiungi modello"
+  },
+  "templateName": {
+    "message": "Nome del modello"
+  },
+  "templateUrl": {
+    "message": "URL con variabili: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Categoria (opzionale)"
+  },
+  "add": {
+    "message": "Aggiungi"
+  },
+  "filterCategory": {
+    "message": "Filtra per categoria:"
+  },
+  "allCategories": {
+    "message": "Tutte le categorie"
+  },
+  "open": {
+    "message": "Apri"
+  },
+  "addToFavorites": {
+    "message": "Aggiungi ai preferiti"
+  },
+  "delete": {
+    "message": "Elimina"
+  },
+  "remove": {
+    "message": "Rimuovi"
+  },
+  "clearHistory": {
+    "message": "Cancella cronologia"
+  },
+  "refresh": {
+    "message": "Aggiorna"
+  },
+  "noTemplates": {
+    "message": "Nessun modello. Crea il tuo primo modello!"
+  },
+  "noFavorites": {
+    "message": "Nessun link preferito"
+  },
+  "noHistory": {
+    "message": "La cronologia è vuota"
+  },
+  "noClipboard": {
+    "message": "Gli appunti sono vuoti"
+  },
+  "fillAllFields": {
+    "message": "Compila tutti i campi"
+  },
+  "templateAdded": {
+    "message": "Modello aggiunto!"
+  },
+  "templateDeleted": {
+    "message": "Modello eliminato"
+  },
+  "addedToFavorites": {
+    "message": "Aggiunto ai preferiti!"
+  },
+  "removedFromFavorites": {
+    "message": "Rimosso dai preferiti"
+  },
+  "historyCleared": {
+    "message": "Cronologia cancellata"
+  },
+  "clipboardUpdated": {
+    "message": "Appunti aggiornati"
+  },
+  "linkOpened": {
+    "message": "Link aperto"
+  },
+  "copied": {
+    "message": "Copiato!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Eliminare questo modello?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Rimuovere dai preferiti?"
+  },
+  "confirmClearHistory": {
+    "message": "Cancellare tutta la cronologia?"
+  },
+  "fillNameAndUrl": {
+    "message": "Compila nome e URL"
+  },
+  "language": {
+    "message": "Lingua"
+  },
+  "noCategory": {
+    "message": "Nessuna categoria"
+  },
+  "languageChanged": {
+    "message": "Lingua cambiata"
+  },
+  "leaveFeedback": {
+    "message": "Lascia un feedback"
+  }
+}

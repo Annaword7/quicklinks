@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "विकासक, उत्पादन व्यवस्थापक आणि प्रकल्प व्यवस्थापकांसाठी चल घटकांसह दुवा व्यवस्थापन",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "साचे",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "आवडते",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "इतिहास",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "क्लिपबोर्ड",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "मूल्ये कॉपी करा - ती येथे दिसतील",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "साचा जोडा",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "साच्याचे नाव",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "चल घटकांसह URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "श्रेणी (पर्यायी)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "जोडा",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "श्रेणीनुसार फिल्टर करा:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "सर्व श्रेणी",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "उघडा",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "आवडत्यांमध्ये जोडा",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "हटवा",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "काढा",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "इतिहास साफ करा",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "रिफ्रेश करा",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "कोणतेही साचे नाहीत. आपला पहिला साचा तयार करा!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "कोणतेही आवडते दुवे नाहीत",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "इतिहास रिकामा आहे",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "क्लिपबोर्ड रिकामा आहे",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "कृपया सर्व क्षेत्रे भरा",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "साचा जोडला!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "साचा हटवला",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "आवडत्यांमध्ये जोडला!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "आवडत्यांमधून काढला",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "इतिहास साफ झाला",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "क्लिपबोर्ड अपडेट झाला",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "दुवा उघडला",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "कॉपी झाले!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "हा साचा हटवायचा?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "आवडत्यांमधून काढायचे?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "सर्व इतिहास साफ करायचा?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "कृपया नाव आणि URL भरा",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "भाषा",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "कोणतीही श्रेणी नाही",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "भाषा बदलली"
+  },
+  "leaveFeedback": {
+    "message": "अभिप्राय द्या"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Gestion de liens avec variables pour développeurs, chefs de produit et chefs de projet"
+  },
+  "templates": {
+    "message": "Modèles"
+  },
+  "favorites": {
+    "message": "Favoris"
+  },
+  "history": {
+    "message": "Historique"
+  },
+  "clipboard": {
+    "message": "Presse-papiers"
+  },
+  "clipboardHelp": {
+    "message": "Copiez des valeurs - elles apparaîtront ici"
+  },
+  "addTemplate": {
+    "message": "Ajouter un modèle"
+  },
+  "templateName": {
+    "message": "Nom du modèle"
+  },
+  "templateUrl": {
+    "message": "URL avec variables: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Catégorie (facultatif)"
+  },
+  "add": {
+    "message": "Ajouter"
+  },
+  "filterCategory": {
+    "message": "Filtrer par catégorie:"
+  },
+  "allCategories": {
+    "message": "Toutes les catégories"
+  },
+  "open": {
+    "message": "Ouvrir"
+  },
+  "addToFavorites": {
+    "message": "Ajouter aux favoris"
+  },
+  "delete": {
+    "message": "Supprimer"
+  },
+  "remove": {
+    "message": "Retirer"
+  },
+  "clearHistory": {
+    "message": "Effacer l'historique"
+  },
+  "refresh": {
+    "message": "Actualiser"
+  },
+  "noTemplates": {
+    "message": "Aucun modèle. Créez votre premier modèle!"
+  },
+  "noFavorites": {
+    "message": "Aucun favori"
+  },
+  "noHistory": {
+    "message": "Historique vide"
+  },
+  "noClipboard": {
+    "message": "Presse-papiers vide"
+  },
+  "fillAllFields": {
+    "message": "Veuillez remplir tous les champs"
+  },
+  "templateAdded": {
+    "message": "Modèle ajouté!"
+  },
+  "templateDeleted": {
+    "message": "Modèle supprimé"
+  },
+  "addedToFavorites": {
+    "message": "Ajouté aux favoris!"
+  },
+  "removedFromFavorites": {
+    "message": "Retiré des favoris"
+  },
+  "historyCleared": {
+    "message": "Historique effacé"
+  },
+  "clipboardUpdated": {
+    "message": "Presse-papiers mis à jour"
+  },
+  "linkOpened": {
+    "message": "Lien ouvert"
+  },
+  "copied": {
+    "message": "Copié!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Supprimer ce modèle?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Retirer des favoris?"
+  },
+  "confirmClearHistory": {
+    "message": "Effacer tout l'historique?"
+  },
+  "fillNameAndUrl": {
+    "message": "Veuillez remplir le nom et l'URL"
+  },
+  "language": {
+    "message": "Langue"
+  },
+  "noCategory": {
+    "message": "Sans catégorie"
+  },
+  "languageChanged": {
+    "message": "Langue modifiée"
+  },
+  "leaveFeedback": {
+    "message": "Laisser un avis"
+  }
+}

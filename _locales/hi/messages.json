@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "डेवलपर्स, प्रोडक्ट मैनेजर और प्रोजेक्ट मैनेजर के लिए वेरिएबल के साथ लिंक प्रबंधन"
+  },
+  "templates": {
+    "message": "टेम्पलेट"
+  },
+  "favorites": {
+    "message": "पसंदीदा"
+  },
+  "history": {
+    "message": "इतिहास"
+  },
+  "clipboard": {
+    "message": "क्लिपबोर्ड"
+  },
+  "clipboardHelp": {
+    "message": "मान कॉपी करें - वे यहाँ दिखेंगे"
+  },
+  "addTemplate": {
+    "message": "टेम्पलेट जोड़ें"
+  },
+  "templateName": {
+    "message": "टेम्पलेट का नाम"
+  },
+  "templateUrl": {
+    "message": "वेरिएबल के साथ URL: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "श्रेणी (वैकल्पिक)"
+  },
+  "add": {
+    "message": "जोड़ें"
+  },
+  "filterCategory": {
+    "message": "श्रेणी से फ़िल्टर करें:"
+  },
+  "allCategories": {
+    "message": "सभी श्रेणियाँ"
+  },
+  "open": {
+    "message": "खोलें"
+  },
+  "addToFavorites": {
+    "message": "पसंदीदा में जोड़ें"
+  },
+  "delete": {
+    "message": "हटाएं"
+  },
+  "remove": {
+    "message": "निकालें"
+  },
+  "clearHistory": {
+    "message": "इतिहास साफ़ करें"
+  },
+  "refresh": {
+    "message": "रीफ्रेश करें"
+  },
+  "noTemplates": {
+    "message": "कोई टेम्पलेट नहीं। अपना पहला टेम्पलेट बनाएं!"
+  },
+  "noFavorites": {
+    "message": "कोई पसंदीदा लिंक नहीं"
+  },
+  "noHistory": {
+    "message": "इतिहास खाली है"
+  },
+  "noClipboard": {
+    "message": "क्लिपबोर्ड खाली है"
+  },
+  "fillAllFields": {
+    "message": "कृपया सभी फ़ील्ड भरें"
+  },
+  "templateAdded": {
+    "message": "टेम्पलेट जोड़ा गया!"
+  },
+  "templateDeleted": {
+    "message": "टेम्पलेट हटाया गया"
+  },
+  "addedToFavorites": {
+    "message": "पसंदीदा में जोड़ा गया!"
+  },
+  "removedFromFavorites": {
+    "message": "पसंदीदा से निकाला गया"
+  },
+  "historyCleared": {
+    "message": "इतिहास साफ़ किया गया"
+  },
+  "clipboardUpdated": {
+    "message": "क्लिपबोर्ड अपडेट किया गया"
+  },
+  "linkOpened": {
+    "message": "लिंक खोला गया"
+  },
+  "copied": {
+    "message": "कॉपी किया गया!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "इस टेम्पलेट को हटाएं?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "पसंदीदा से निकालें?"
+  },
+  "confirmClearHistory": {
+    "message": "सारा इतिहास साफ़ करें?"
+  },
+  "fillNameAndUrl": {
+    "message": "कृपया नाम और URL भरें"
+  },
+  "language": {
+    "message": "भाषा"
+  },
+  "noCategory": {
+    "message": "कोई श्रेणी नहीं"
+  },
+  "languageChanged": {
+    "message": "भाषा बदल दी"
+  },
+  "leaveFeedback": {
+    "message": "प्रतिक्रिया दें"
+  }
+}

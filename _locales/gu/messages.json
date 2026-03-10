@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "ડેવલપર્સ, પ્રોડક્ટ મેનેજર્સ અને પ્રોજેક્ટ મેનેજર્સ માટે ચલ સાથે લિંક વ્યવસ્થાપન",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "ટેમ્પ્લેટ્સ",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "પ્રિય",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "ઇતિહાસ",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "ક્લિપબોર્ડ",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "મૂલ્યો કૉપિ કરો - તે અહીં દેખાશે",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "ટેમ્પ્લેટ ઉમેરો",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "ટેમ્પ્લેટ નામ",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "ચલ સાથે URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "શ્રેણી (વૈકલ્પિક)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "ઉમેરો",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "શ્રેણી દ્વારા ફિલ્ટર:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "બધી શ્રેણીઓ",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "ખોલો",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "પ્રિયમાં ઉમેરો",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "ભૂંસો",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "દૂર કરો",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "ઇતિહાસ સાફ કરો",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "રિફ્રેશ",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "કોઈ ટેમ્પ્લેટ્સ નથી. તમારું પ્રથમ ટેમ્પ્લેટ બનાવો!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "કોઈ પ્રિય લિંક્સ નથી",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "ઇતિહાસ ખાલી છે",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "ક્લિપબોર્ડ ખાલી છે",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "કૃપા કરીને બધા ક્ષેત્રો ભરો",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "ટેમ્પ્લેટ ઉમેરાયું!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "ટેમ્પ્લેટ ભૂંસાયું",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "પ્રિયમાં ઉમેરાયું!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "પ્રિયમાંથી દૂર કરાયું",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "ઇતિહાસ સાફ થઈ ગયો",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "ક્લિપબોર્ડ અપડેટ થયું",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "લિંક ખૂલ્યો",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "કૉપિ થઈ!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "આ ટેમ્પ્લેટ ભૂંસો?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "પ્રિયમાંથી દૂર કરો?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "બધો ઇતિહાસ સાફ કરો?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "કૃપા કરીને નામ અને URL ભરો",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "ભાષા",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "કોઈ શ્રેણી નથી",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "ભાષા બદલાઈ"
+  },
+  "leaveFeedback": {
+    "message": "પ્રતિસાદ આપો"
+  }
+}

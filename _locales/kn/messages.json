@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "ಡೆವಲಪರ್‌ಗಳು, ಉತ್ಪನ್ನ ವ್ಯವಸ್ಥಾಪಕರು ಮತ್ತು ಯೋಜನಾ ವ್ಯವಸ್ಥಾಪಕರಿಗಾಗಿ ಅಸ್ಥಿರಗಳೊಂದಿಗೆ ಲಿಂಕ್ ನಿರ್ವಹಣೆ",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "ಟೆಂಪ್ಲೆಟ್‌ಗಳು",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "ನೆಚ್ಚಿನವುಗಳು",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "ಇತಿಹಾಸ",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "ಮೌಲ್ಯಗಳನ್ನು ನಕಲಿಸಿ - ಅವು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "ಟೆಂಪ್ಲೆಟ್ ಸೇರಿಸಿ",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "ಟೆಂಪ್ಲೆಟ್ ಹೆಸರು",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "ಅಸ್ಥಿರಗಳೊಂದಿಗೆ URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "ವರ್ಗ (ಐಚ್ಛಿಕ)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "ಸೇರಿಸಿ",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "ವರ್ಗದ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಿ:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "ಎಲ್ಲ ವರ್ಗಗಳು",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "ತೆರೆಯಿರಿ",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "ನೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಿ",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "ಅಳಿಸಿ",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "ತೆಗೆದುಹಾಕಿ",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "ಇತಿಹಾಸ ತೆರವುಗೊಳಿಸಿ",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "ರಿಫ್ರೆಶ್ ಮಾಡಿ",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "ಟೆಂಪ್ಲೆಟ್‌ಗಳಿಲ್ಲ. ನಿಮ್ಮ ಮೊದಲ ಟೆಂಪ್ಲೆಟ್ ರಚಿಸಿ!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "ನೆಚ್ಚಿನ ಲಿಂಕ್‌ಗಳಿಲ್ಲ",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "ಇತಿಹಾಸ ಖಾಲಿಯಾಗಿದೆ",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಖಾಲಿಯಾಗಿದೆ",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "ದಯವಿಟ್ಟು ಎಲ್ಲ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "ಟೆಂಪ್ಲೆಟ್ ಸೇರಿಸಲಾಗಿದೆ!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "ಟೆಂಪ್ಲೆಟ್ ಅಳಿಸಲಾಗಿದೆ",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "ನೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಲಾಗಿದೆ!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "ನೆಚ್ಚಿನವುಗಳಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "ಇತಿಹಾಸ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಅಪ್‌ಡೇಟ್ ಆಗಿದೆ",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "ಲಿಂಕ್ ತೆರೆಯಲಾಗಿದೆ",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "ನಕಲಿಸಲಾಗಿದೆ!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "ಈ ಟೆಂಪ್ಲೆಟ್ ಅಳಿಸುವುದೇ?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "ನೆಚ್ಚಿನವುಗಳಿಂದ ತೆಗೆದುಹಾಕುವುದೇ?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "ಎಲ್ಲ ಇತಿಹಾಸ ತೆರವುಗೊಳಿಸುವುದೇ?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "ದಯವಿಟ್ಟು ಹೆಸರು ಮತ್ತು URL ಭರ್ತಿ ಮಾಡಿ",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "ಭಾಷೆ",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "ವರ್ಗವಿಲ್ಲ",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "ಭಾಷೆ ಬದಲಾಯಿಸಲಾಗಿದೆ"
+  },
+  "leaveFeedback": {
+    "message": "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ"
+  }
+}

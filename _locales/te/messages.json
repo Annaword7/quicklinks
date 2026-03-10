@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "డెవలపర్లు, ప్రొడక్ట్ మేనేజర్లు మరియు ప్రాజెక్ట్ మేనేజర్లకు వేరియబుల్‌లతో లింక్ నిర్వహణ",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "టెంప్లేట్‌లు",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "ఇష్టమైనవి",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "చరిత్ర",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "క్లిప్‌బోర్డ్",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "విలువలను కాపీ చేయండి - ఇక్కడ కనిపిస్తాయి",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "టెంప్లేట్ జోడించండి",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "టెంప్లేట్ పేరు",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "వేరియబుల్‌లతో URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "వర్గం (ఐచ్ఛికం)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "జోడించండి",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "వర్గం వారీగా ఫిల్టర్ చేయండి:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "అన్ని వర్గాలు",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "తెరవండి",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "ఇష్టమైనవిలో జోడించండి",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "తొలగించండి",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "తీసివేయండి",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "చరిత్ర క్లియర్ చేయండి",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "రిఫ్రెష్ చేయండి",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "టెంప్లేట్‌లు లేవు. మీ మొదటి టెంప్లేట్ సృష్టించండి!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "ఇష్టమైన లింక్‌లు లేవు",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "చరిత్ర ఖాళీగా ఉంది",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "క్లిప్‌బోర్డ్ ఖాళీగా ఉంది",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "దయచేసి అన్ని ఫీల్డ్‌లు నింపండి",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "టెంప్లేట్ జోడించబడింది!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "టెంప్లేట్ తొలగించబడింది",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "ఇష్టమైనవిలో జోడించబడింది!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "ఇష్టమైనవి నుండి తీసివేయబడింది",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "చరిత్ర క్లియర్ అయింది",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "క్లిప్‌బోర్డ్ నవీకరించబడింది",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "లింక్ తెరవబడింది",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "కాపీ చేయబడింది!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "ఈ టెంప్లేట్ తొలగించాలా?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "ఇష్టమైనవి నుండి తీసివేయాలా?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "అన్ని చరిత్ర క్లియర్ చేయాలా?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "దయచేసి పేరు మరియు URL నింపండి",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "భాష",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "వర్గం లేదు",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "భాష మార్చబడింది"
+  },
+  "leaveFeedback": {
+    "message": "అభిప్రాయం తెలియజేయండి"
+  }
+}

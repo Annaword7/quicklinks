@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Διαχείριση συνδέσμων με μεταβλητές για προγραμματιστές, διαχειριστές προϊόντων και διαχειριστές έργων",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Πρότυπα",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Αγαπημένα",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Ιστορικό",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Πρόχειρο",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Αντιγράψτε τιμές – θα εμφανιστούν εδώ",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Προσθήκη προτύπου",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Όνομα προτύπου",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL με μεταβλητές: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Κατηγορία (προαιρετικό)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Προσθήκη",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Φιλτράρισμα κατά κατηγορία:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Όλες οι κατηγορίες",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Άνοιγμα",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Προσθήκη στα αγαπημένα",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Διαγραφή",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Αφαίρεση",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Εκκαθάριση ιστορικού",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Ανανέωση",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Δεν υπάρχουν πρότυπα. Δημιουργήστε το πρώτο σας πρότυπο!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Δεν υπάρχουν αγαπημένοι σύνδεσμοι",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Το ιστορικό είναι κενό",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Το πρόχειρο είναι κενό",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Παρακαλώ συμπληρώστε όλα τα πεδία",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Το πρότυπο προστέθηκε!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Το πρότυπο διαγράφηκε",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Προστέθηκε στα αγαπημένα!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Αφαιρέθηκε από τα αγαπημένα",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Το ιστορικό εκκαθαρίστηκε",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Το πρόχειρο ενημερώθηκε",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Ο σύνδεσμος ανοίχτηκε",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Αντιγράφηκε!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Διαγραφή αυτού του προτύπου;",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Αφαίρεση από τα αγαπημένα;",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Εκκαθάριση όλου του ιστορικού;",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Παρακαλώ συμπληρώστε το όνομα και το URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Γλώσσα",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Χωρίς κατηγορία",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Η γλώσσα άλλαξε"
+  },
+  "leaveFeedback": {
+    "message": "Αφήστε σχόλια"
+  }
+}

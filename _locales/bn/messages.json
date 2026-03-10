@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "ডেভেলপার, প্রোডাক্ট ম্যানেজার এবং প্রোজেক্ট ম্যানেজারদের জন্য ভ্যারিয়েবল সহ লিঙ্ক ম্যানেজমেন্ট",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "টেমপ্লেট",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "প্রিয়",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "ইতিহাস",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "ক্লিপবোর্ড",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "মান কপি করুন - এখানে প্রদর্শিত হবে",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "টেমপ্লেট যোগ করুন",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "টেমপ্লেটের নাম",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "ভ্যারিয়েবল সহ URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "বিভাগ (ঐচ্ছিক)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "যোগ করুন",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "বিভাগ অনুসারে ফিল্টার:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "সব বিভাগ",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "খুলুন",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "প্রিয়তে যোগ করুন",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "মুছুন",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "সরান",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "ইতিহাস মুছুন",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "রিফ্রেশ",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "কোনো টেমপ্লেট নেই। আপনার প্রথম টেমপ্লেট তৈরি করুন!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "কোনো প্রিয় লিঙ্ক নেই",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "ইতিহাস খালি",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "ক্লিপবোর্ড খালি",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "অনুগ্রহ করে সব ক্ষেত্র পূরণ করুন",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "টেমপ্লেট যোগ হয়েছে!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "টেমপ্লেট মুছে গেছে",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "প্রিয়তে যোগ হয়েছে!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "প্রিয় থেকে সরানো হয়েছে",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "ইতিহাস মুছে গেছে",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "ক্লিপবোর্ড আপডেট হয়েছে",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "লিঙ্ক খোলা হয়েছে",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "কপি হয়েছে!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "এই টেমপ্লেট মুছবেন?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "প্রিয় থেকে সরাবেন?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "সব ইতিহাস মুছবেন?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "অনুগ্রহ করে নাম এবং URL পূরণ করুন",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "ভাষা",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "কোনো বিভাগ নেই",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "ভাষা পরিবর্তিত হয়েছে"
+  },
+  "leaveFeedback": {
+    "message": "মতামত দিন"
+  }
+}

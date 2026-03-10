@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Zarządzanie linkami ze zmiennymi dla deweloperów, menedżerów produktu i menedżerów projektów"
+  },
+  "templates": {
+    "message": "Szablony"
+  },
+  "favorites": {
+    "message": "Ulubione"
+  },
+  "history": {
+    "message": "Historia"
+  },
+  "clipboard": {
+    "message": "Schowek"
+  },
+  "clipboardHelp": {
+    "message": "Kopiuj wartości - pojawią się tutaj"
+  },
+  "addTemplate": {
+    "message": "Dodaj szablon"
+  },
+  "templateName": {
+    "message": "Nazwa szablonu"
+  },
+  "templateUrl": {
+    "message": "URL ze zmiennymi: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Kategoria (opcjonalnie)"
+  },
+  "add": {
+    "message": "Dodaj"
+  },
+  "filterCategory": {
+    "message": "Filtruj według kategorii:"
+  },
+  "allCategories": {
+    "message": "Wszystkie kategorie"
+  },
+  "open": {
+    "message": "Otwórz"
+  },
+  "addToFavorites": {
+    "message": "Dodaj do ulubionych"
+  },
+  "delete": {
+    "message": "Usuń"
+  },
+  "remove": {
+    "message": "Usuń"
+  },
+  "clearHistory": {
+    "message": "Wyczyść historię"
+  },
+  "refresh": {
+    "message": "Odśwież"
+  },
+  "noTemplates": {
+    "message": "Brak szablonów. Utwórz swój pierwszy szablon!"
+  },
+  "noFavorites": {
+    "message": "Brak ulubionych linków"
+  },
+  "noHistory": {
+    "message": "Historia jest pusta"
+  },
+  "noClipboard": {
+    "message": "Schowek jest pusty"
+  },
+  "fillAllFields": {
+    "message": "Wypełnij wszystkie pola"
+  },
+  "templateAdded": {
+    "message": "Szablon dodany!"
+  },
+  "templateDeleted": {
+    "message": "Szablon usunięty"
+  },
+  "addedToFavorites": {
+    "message": "Dodano do ulubionych!"
+  },
+  "removedFromFavorites": {
+    "message": "Usunięto z ulubionych"
+  },
+  "historyCleared": {
+    "message": "Historia wyczyszczona"
+  },
+  "clipboardUpdated": {
+    "message": "Schowek zaktualizowany"
+  },
+  "linkOpened": {
+    "message": "Link otwarty"
+  },
+  "copied": {
+    "message": "Skopiowano!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Usunąć ten szablon?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Usunąć z ulubionych?"
+  },
+  "confirmClearHistory": {
+    "message": "Wyczyścić całą historię?"
+  },
+  "fillNameAndUrl": {
+    "message": "Wypełnij nazwę i URL"
+  },
+  "language": {
+    "message": "Język"
+  },
+  "noCategory": {
+    "message": "Brak kategorii"
+  },
+  "languageChanged": {
+    "message": "Język zmieniony"
+  },
+  "leaveFeedback": {
+    "message": "Zostaw opinię"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "إدارة الروابط بمتغيرات للمطورين ومديري المنتجات ومديري المشاريع"
+  },
+  "templates": {
+    "message": "القوالب"
+  },
+  "favorites": {
+    "message": "المفضلة"
+  },
+  "history": {
+    "message": "السجل"
+  },
+  "clipboard": {
+    "message": "الحافظة"
+  },
+  "clipboardHelp": {
+    "message": "انسخ القيم - ستظهر هنا"
+  },
+  "addTemplate": {
+    "message": "إضافة قالب"
+  },
+  "templateName": {
+    "message": "اسم القالب"
+  },
+  "templateUrl": {
+    "message": "رابط بمتغيرات: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "الفئة (اختياري)"
+  },
+  "add": {
+    "message": "إضافة"
+  },
+  "filterCategory": {
+    "message": "تصفية حسب الفئة:"
+  },
+  "allCategories": {
+    "message": "كل الفئات"
+  },
+  "open": {
+    "message": "فتح"
+  },
+  "addToFavorites": {
+    "message": "إضافة إلى المفضلة"
+  },
+  "delete": {
+    "message": "حذف"
+  },
+  "remove": {
+    "message": "إزالة"
+  },
+  "clearHistory": {
+    "message": "مسح السجل"
+  },
+  "refresh": {
+    "message": "تحديث"
+  },
+  "noTemplates": {
+    "message": "لا توجد قوالب. أنشئ قالبك الأول!"
+  },
+  "noFavorites": {
+    "message": "لا توجد روابط مفضلة"
+  },
+  "noHistory": {
+    "message": "السجل فارغ"
+  },
+  "noClipboard": {
+    "message": "الحافظة فارغة"
+  },
+  "fillAllFields": {
+    "message": "يرجى ملء جميع الحقول"
+  },
+  "templateAdded": {
+    "message": "تمت إضافة القالب!"
+  },
+  "templateDeleted": {
+    "message": "تم حذف القالب"
+  },
+  "addedToFavorites": {
+    "message": "تمت الإضافة إلى المفضلة!"
+  },
+  "removedFromFavorites": {
+    "message": "تمت الإزالة من المفضلة"
+  },
+  "historyCleared": {
+    "message": "تم مسح السجل"
+  },
+  "clipboardUpdated": {
+    "message": "تم تحديث الحافظة"
+  },
+  "linkOpened": {
+    "message": "تم فتح الرابط"
+  },
+  "copied": {
+    "message": "تم النسخ!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "حذف هذا القالب؟"
+  },
+  "confirmRemoveFavorite": {
+    "message": "إزالة من المفضلة؟"
+  },
+  "confirmClearHistory": {
+    "message": "مسح كل السجل؟"
+  },
+  "fillNameAndUrl": {
+    "message": "يرجى ملء الاسم والرابط"
+  },
+  "language": {
+    "message": "اللغة"
+  },
+  "noCategory": {
+    "message": "بدون فئة"
+  },
+  "languageChanged": {
+    "message": "تم تغيير اللغة"
+  },
+  "leaveFeedback": {
+    "message": "اترك تعليقاً"
+  }
+}

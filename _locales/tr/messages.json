@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Geliştiriciler, ürün yöneticileri ve proje yöneticileri için değişkenli bağlantı yönetimi"
+  },
+  "templates": {
+    "message": "Şablonlar"
+  },
+  "favorites": {
+    "message": "Favoriler"
+  },
+  "history": {
+    "message": "Geçmiş"
+  },
+  "clipboard": {
+    "message": "Pano"
+  },
+  "clipboardHelp": {
+    "message": "Değerleri kopyalayın - burada görünecekler"
+  },
+  "addTemplate": {
+    "message": "Şablon Ekle"
+  },
+  "templateName": {
+    "message": "Şablon adı"
+  },
+  "templateUrl": {
+    "message": "Değişkenli URL: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Kategori (isteğe bağlı)"
+  },
+  "add": {
+    "message": "Ekle"
+  },
+  "filterCategory": {
+    "message": "Kategoriye göre filtrele:"
+  },
+  "allCategories": {
+    "message": "Tüm kategoriler"
+  },
+  "open": {
+    "message": "Aç"
+  },
+  "addToFavorites": {
+    "message": "Favorilere ekle"
+  },
+  "delete": {
+    "message": "Sil"
+  },
+  "remove": {
+    "message": "Kaldır"
+  },
+  "clearHistory": {
+    "message": "Geçmişi temizle"
+  },
+  "refresh": {
+    "message": "Yenile"
+  },
+  "noTemplates": {
+    "message": "Şablon yok. İlk şablonunuzu oluşturun!"
+  },
+  "noFavorites": {
+    "message": "Favori bağlantı yok"
+  },
+  "noHistory": {
+    "message": "Geçmiş boş"
+  },
+  "noClipboard": {
+    "message": "Pano boş"
+  },
+  "fillAllFields": {
+    "message": "Lütfen tüm alanları doldurun"
+  },
+  "templateAdded": {
+    "message": "Şablon eklendi!"
+  },
+  "templateDeleted": {
+    "message": "Şablon silindi"
+  },
+  "addedToFavorites": {
+    "message": "Favorilere eklendi!"
+  },
+  "removedFromFavorites": {
+    "message": "Favorilerden kaldırıldı"
+  },
+  "historyCleared": {
+    "message": "Geçmiş temizlendi"
+  },
+  "clipboardUpdated": {
+    "message": "Pano güncellendi"
+  },
+  "linkOpened": {
+    "message": "Bağlantı açıldı"
+  },
+  "copied": {
+    "message": "Kopyalandı!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Bu şablon silinsin mi?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Favorilerden kaldırılsın mı?"
+  },
+  "confirmClearHistory": {
+    "message": "Tüm geçmiş temizlensin mi?"
+  },
+  "fillNameAndUrl": {
+    "message": "Lütfen ad ve URL'yi doldurun"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "noCategory": {
+    "message": "Kategori yok"
+  },
+  "languageChanged": {
+    "message": "Dil değiştirildi"
+  },
+  "leaveFeedback": {
+    "message": "Geri bildirim bırak"
+  }
+}

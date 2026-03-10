@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Gerenciamento de links com variáveis para desenvolvedores, gerentes de produto e gerentes de projeto"
+  },
+  "templates": {
+    "message": "Modelos"
+  },
+  "favorites": {
+    "message": "Favoritos"
+  },
+  "history": {
+    "message": "Histórico"
+  },
+  "clipboard": {
+    "message": "Área de transferência"
+  },
+  "clipboardHelp": {
+    "message": "Copie os valores - eles aparecerão aqui"
+  },
+  "addTemplate": {
+    "message": "Adicionar modelo"
+  },
+  "templateName": {
+    "message": "Nome do modelo"
+  },
+  "templateUrl": {
+    "message": "URL com variáveis: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Categoria (opcional)"
+  },
+  "add": {
+    "message": "Adicionar"
+  },
+  "filterCategory": {
+    "message": "Filtrar por categoria:"
+  },
+  "allCategories": {
+    "message": "Todas as categorias"
+  },
+  "open": {
+    "message": "Abrir"
+  },
+  "addToFavorites": {
+    "message": "Adicionar aos favoritos"
+  },
+  "delete": {
+    "message": "Excluir"
+  },
+  "remove": {
+    "message": "Remover"
+  },
+  "clearHistory": {
+    "message": "Limpar histórico"
+  },
+  "refresh": {
+    "message": "Atualizar"
+  },
+  "noTemplates": {
+    "message": "Sem modelos. Crie seu primeiro modelo!"
+  },
+  "noFavorites": {
+    "message": "Sem links favoritos"
+  },
+  "noHistory": {
+    "message": "Histórico vazio"
+  },
+  "noClipboard": {
+    "message": "Área de transferência vazia"
+  },
+  "fillAllFields": {
+    "message": "Preencha todos os campos"
+  },
+  "templateAdded": {
+    "message": "Modelo adicionado!"
+  },
+  "templateDeleted": {
+    "message": "Modelo excluído"
+  },
+  "addedToFavorites": {
+    "message": "Adicionado aos favoritos!"
+  },
+  "removedFromFavorites": {
+    "message": "Removido dos favoritos"
+  },
+  "historyCleared": {
+    "message": "Histórico limpo"
+  },
+  "clipboardUpdated": {
+    "message": "Área de transferência atualizada"
+  },
+  "linkOpened": {
+    "message": "Link aberto"
+  },
+  "copied": {
+    "message": "Copiado!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Excluir este modelo?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Remover dos favoritos?"
+  },
+  "confirmClearHistory": {
+    "message": "Limpar todo o histórico?"
+  },
+  "fillNameAndUrl": {
+    "message": "Preencha o nome e a URL"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "noCategory": {
+    "message": "Sem categoria"
+  },
+  "languageChanged": {
+    "message": "Idioma alterado"
+  },
+  "leaveFeedback": {
+    "message": "Deixar feedback"
+  }
+}

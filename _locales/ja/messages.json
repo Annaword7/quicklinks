@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "開発者、プロダクトマネージャー、プロジェクトマネージャー向けの変数付きリンク管理"
+  },
+  "templates": {
+    "message": "テンプレート"
+  },
+  "favorites": {
+    "message": "お気に入り"
+  },
+  "history": {
+    "message": "履歴"
+  },
+  "clipboard": {
+    "message": "クリップボード"
+  },
+  "clipboardHelp": {
+    "message": "値をコピー - ここに表示されます"
+  },
+  "addTemplate": {
+    "message": "テンプレートを追加"
+  },
+  "templateName": {
+    "message": "テンプレート名"
+  },
+  "templateUrl": {
+    "message": "変数付きURL: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "カテゴリー（オプション）"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "filterCategory": {
+    "message": "カテゴリーでフィルター："
+  },
+  "allCategories": {
+    "message": "すべてのカテゴリー"
+  },
+  "open": {
+    "message": "開く"
+  },
+  "addToFavorites": {
+    "message": "お気に入りに追加"
+  },
+  "delete": {
+    "message": "削除"
+  },
+  "remove": {
+    "message": "削除"
+  },
+  "clearHistory": {
+    "message": "履歴をクリア"
+  },
+  "refresh": {
+    "message": "更新"
+  },
+  "noTemplates": {
+    "message": "テンプレートがありません。最初のテンプレートを作成しましょう！"
+  },
+  "noFavorites": {
+    "message": "お気に入りがありません"
+  },
+  "noHistory": {
+    "message": "履歴は空です"
+  },
+  "noClipboard": {
+    "message": "クリップボードは空です"
+  },
+  "fillAllFields": {
+    "message": "すべてのフィールドを入力してください"
+  },
+  "templateAdded": {
+    "message": "テンプレートが追加されました！"
+  },
+  "templateDeleted": {
+    "message": "テンプレートが削除されました"
+  },
+  "addedToFavorites": {
+    "message": "お気に入りに追加されました！"
+  },
+  "removedFromFavorites": {
+    "message": "お気に入りから削除されました"
+  },
+  "historyCleared": {
+    "message": "履歴がクリアされました"
+  },
+  "clipboardUpdated": {
+    "message": "クリップボードが更新されました"
+  },
+  "linkOpened": {
+    "message": "リンクが開かれました"
+  },
+  "copied": {
+    "message": "コピーされました！"
+  },
+  "confirmDeleteTemplate": {
+    "message": "このテンプレートを削除しますか？"
+  },
+  "confirmRemoveFavorite": {
+    "message": "お気に入りから削除しますか？"
+  },
+  "confirmClearHistory": {
+    "message": "すべての履歴をクリアしますか？"
+  },
+  "fillNameAndUrl": {
+    "message": "名前とURLを入力してください"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "noCategory": {
+    "message": "カテゴリーなし"
+  },
+  "languageChanged": {
+    "message": "言語が変更されました"
+  },
+  "leaveFeedback": {
+    "message": "フィードバックを送る"
+  }
+}

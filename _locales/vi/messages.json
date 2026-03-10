@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Quản lý liên kết với biến cho nhà phát triển, quản lý sản phẩm và quản lý dự án"
+  },
+  "templates": {
+    "message": "Mẫu"
+  },
+  "favorites": {
+    "message": "Yêu thích"
+  },
+  "history": {
+    "message": "Lịch sử"
+  },
+  "clipboard": {
+    "message": "Bộ nhớ tạm"
+  },
+  "clipboardHelp": {
+    "message": "Sao chép giá trị - chúng sẽ xuất hiện tại đây"
+  },
+  "addTemplate": {
+    "message": "Thêm mẫu"
+  },
+  "templateName": {
+    "message": "Tên mẫu"
+  },
+  "templateUrl": {
+    "message": "URL với biến: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "Danh mục (tùy chọn)"
+  },
+  "add": {
+    "message": "Thêm"
+  },
+  "filterCategory": {
+    "message": "Lọc theo danh mục:"
+  },
+  "allCategories": {
+    "message": "Tất cả danh mục"
+  },
+  "open": {
+    "message": "Mở"
+  },
+  "addToFavorites": {
+    "message": "Thêm vào yêu thích"
+  },
+  "delete": {
+    "message": "Xóa"
+  },
+  "remove": {
+    "message": "Gỡ bỏ"
+  },
+  "clearHistory": {
+    "message": "Xóa lịch sử"
+  },
+  "refresh": {
+    "message": "Làm mới"
+  },
+  "noTemplates": {
+    "message": "Không có mẫu. Tạo mẫu đầu tiên của bạn!"
+  },
+  "noFavorites": {
+    "message": "Không có liên kết yêu thích"
+  },
+  "noHistory": {
+    "message": "Lịch sử trống"
+  },
+  "noClipboard": {
+    "message": "Bộ nhớ tạm trống"
+  },
+  "fillAllFields": {
+    "message": "Vui lòng điền vào tất cả các trường"
+  },
+  "templateAdded": {
+    "message": "Đã thêm mẫu!"
+  },
+  "templateDeleted": {
+    "message": "Đã xóa mẫu"
+  },
+  "addedToFavorites": {
+    "message": "Đã thêm vào yêu thích!"
+  },
+  "removedFromFavorites": {
+    "message": "Đã xóa khỏi yêu thích"
+  },
+  "historyCleared": {
+    "message": "Đã xóa lịch sử"
+  },
+  "clipboardUpdated": {
+    "message": "Đã cập nhật bộ nhớ tạm"
+  },
+  "linkOpened": {
+    "message": "Đã mở liên kết"
+  },
+  "copied": {
+    "message": "Đã sao chép!"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Xóa mẫu này?"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Xóa khỏi yêu thích?"
+  },
+  "confirmClearHistory": {
+    "message": "Xóa tất cả lịch sử?"
+  },
+  "fillNameAndUrl": {
+    "message": "Vui lòng điền tên và URL"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "noCategory": {
+    "message": "Không có danh mục"
+  },
+  "languageChanged": {
+    "message": "Đã thay đổi ngôn ngữ"
+  },
+  "leaveFeedback": {
+    "message": "Để lại phản hồi"
+  }
+}

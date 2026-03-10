@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Linkhåndtering med variabler for udviklere, produktchefer og projektledere",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Skabeloner",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Favoritter",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Historik",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Udklipsholder",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Kopiér værdier – de vises her",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Tilføj skabelon",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Skabelonnavn",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL med variabler: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategori (valgfri)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Tilføj",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtrer efter kategori:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Alle kategorier",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Åbn",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Tilføj til favoritter",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Slet",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Fjern",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Ryd historik",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Opdater",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Ingen skabeloner. Opret din første skabelon!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Ingen favoritlinks",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Historikken er tom",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Udklipsholderen er tom",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Udfyld venligst alle felter",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Skabelon tilføjet!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Skabelon slettet",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Tilføjet til favoritter!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Fjernet fra favoritter",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Historik ryddet",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Udklipsholder opdateret",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Link åbnet",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Kopieret!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Slet denne skabelon?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Fjern fra favoritter?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Ryd al historik?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Udfyld venligst navn og URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Sprog",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Ingen kategori",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Sprog ændret"
+  },
+  "leaveFeedback": {
+    "message": "Giv feedback"
+  }
+}

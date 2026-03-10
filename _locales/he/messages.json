@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "ניהול קישורים עם משתנים למפתחים, מנהלי מוצר ומנהלי פרויקטים",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "תבניות",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "מועדפים",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "היסטוריה",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "לוח גזירים",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "העתיקו ערכים – הם יופיעו כאן",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "הוסף תבנית",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "שם התבנית",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "כתובת URL עם משתנים: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "קטגוריה (אופציונלי)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "הוסף",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "סינון לפי קטגוריה:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "כל הקטגוריות",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "פתח",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "הוסף למועדפים",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "מחק",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "הסר",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "נקה היסטוריה",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "רענן",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "אין תבניות. צרו את התבנית הראשונה שלכם!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "אין קישורים מועדפים",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "ההיסטוריה ריקה",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "לוח הגזירים ריק",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "אנא מלאו את כל השדות",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "תבנית נוספה!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "תבנית נמחקה",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "נוסף למועדפים!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "הוסר מהמועדפים",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "ההיסטוריה נוקתה",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "לוח הגזירים עודכן",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "קישור נפתח",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "הועתק!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "למחוק תבנית זו?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "להסיר מהמועדפים?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "לנקות את כל ההיסטוריה?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "אנא הזינו שם וכתובת URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "שפה",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "ללא קטגוריה",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "השפה שונתה"
+  },
+  "leaveFeedback": {
+    "message": "השאר משוב"
+  }
+}

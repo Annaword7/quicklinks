@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "ഡവലപ്പർമാർ, ഉൽപ്പന്ന മാനേജർമാർ, പ്രോജക്ട് മാനേജർമാർ എന്നിവർക്കായി വേരിയബിളുകൾ ഉള്ള ലിങ്ക് മാനേജ്മെന്റ്",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "ടെംപ്ലേറ്റുകൾ",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "പ്രിയപ്പെട്ടവ",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "ചരിത്രം",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "ക്ലിപ്പ്ബോർഡ്",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "മൂല്യങ്ങൾ കോപ്പി ചെയ്യുക - അവ ഇവിടെ ദൃശ്യമാകും",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "ടെംപ്ലേറ്റ് ചേർക്കുക",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "ടെംപ്ലേറ്റ് പേര്",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "വേരിയബിളുകൾ ഉള്ള URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "വിഭാഗം (ഐച്ഛിക)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "ചേർക്കുക",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "വിഭാഗം അനുസരിച്ച് ഫിൽട്ടർ:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "എല്ലാ വിഭാഗങ്ങളും",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "തുറക്കുക",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "പ്രിയപ്പെട്ടവയിൽ ചേർക്കുക",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "ഇല്ലാതാക്കുക",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "നീക്കംചെയ്യുക",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "ചരിത്രം മായ്ക്കുക",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "പുതുക്കുക",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "ടെംപ്ലേറ്റുകളൊന്നുമില്ല. നിങ്ങളുടെ ആദ്യ ടെംപ്ലേറ്റ് സൃഷ്ടിക്കുക!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "പ്രിയപ്പെട്ട ലിങ്കുകളൊന്നുമില്ല",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "ചരിത്രം ശൂന്യമാണ്",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "ക്ലിപ്പ്ബോർഡ് ശൂന്യമാണ്",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "എല്ലാ ഫീൽഡുകളും പൂരിപ്പിക്കുക",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "ടെംപ്ലേറ്റ് ചേർത്തു!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "ടെംപ്ലേറ്റ് ഇല്ലാതായി",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "പ്രിയപ്പെട്ടവയിൽ ചേർത്തു!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "പ്രിയപ്പെട്ടവയിൽ നിന്ന് നീക്കി",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "ചരിത്രം മായ്ച്ചു",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "ക്ലിപ്പ്ബോർഡ് അപ്ഡേറ്റ് ചെയ്തു",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "ലിങ്ക് തുറന്നു",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "പകർത്തി!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "ഈ ടെംപ്ലേറ്റ് ഇല്ലാതാക്കണോ?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "പ്രിയപ്പെട്ടവയിൽ നിന്ന് നീക്കണോ?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "എല്ലാ ചരിത്രവും മായ്ക്കണോ?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "പേരും URL-ഉം നൽകുക",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "ഭാഷ",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "വിഭാഗമില്ല",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "ഭാഷ മാറ്റി"
+  },
+  "leaveFeedback": {
+    "message": "ഫീഡ്ബാക്ക് നൽകുക"
+  }
+}

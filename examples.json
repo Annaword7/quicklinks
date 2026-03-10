@@ -1,0 +1,79 @@
+{
+  "templates": [
+    {
+      "name": "Hotel Info Page",
+      "url": "https://extranet.emergingtravel.com/v3/hotels/{hotelId}/hotel/info",
+      "category": "Hotels"
+    },
+    {
+      "name": "Rate Plan Edit",
+      "url": "https://extranet.emergingtravel.com/v3/hotels/{hotelId}/rateplan/{rateId}/edit",
+      "category": "Rates"
+    },
+    {
+      "name": "GitHub Issue",
+      "url": "https://github.com/{owner}/{repo}/issues/{issueNumber}",
+      "category": "GitHub"
+    },
+    {
+      "name": "GitHub PR",
+      "url": "https://github.com/{owner}/{repo}/pull/{prNumber}",
+      "category": "GitHub"
+    },
+    {
+      "name": "JIRA Task",
+      "url": "https://yourcompany.atlassian.net/browse/{taskId}",
+      "category": "JIRA"
+    },
+    {
+      "name": "Confluence Page",
+      "url": "https://yourcompany.atlassian.net/wiki/spaces/{spaceKey}/pages/{pageId}",
+      "category": "Confluence"
+    },
+    {
+      "name": "AWS EC2 Instance",
+      "url": "https://{region}.console.aws.amazon.com/ec2/v2/home?region={region}#Instances:instanceId={instanceId}",
+      "category": "AWS"
+    },
+    {
+      "name": "AWS S3 Bucket",
+      "url": "https://s3.console.aws.amazon.com/s3/buckets/{bucketName}",
+      "category": "AWS"
+    },
+    {
+      "name": "Google Analytics Property",
+      "url": "https://analytics.google.com/analytics/web/#/a{accountId}w{propertyId}p{viewId}",
+      "category": "Analytics"
+    },
+    {
+      "name": "Stripe Customer",
+      "url": "https://dashboard.stripe.com/customers/{customerId}",
+      "category": "Stripe"
+    },
+    {
+      "name": "Stripe Payment",
+      "url": "https://dashboard.stripe.com/payments/{paymentId}",
+      "category": "Stripe"
+    },
+    {
+      "name": "Figma File",
+      "url": "https://www.figma.com/file/{fileId}/{fileName}",
+      "category": "Design"
+    },
+    {
+      "name": "Notion Page",
+      "url": "https://www.notion.so/{pageId}",
+      "category": "Notion"
+    },
+    {
+      "name": "Google Drive File",
+      "url": "https://drive.google.com/file/d/{fileId}/view",
+      "category": "Google"
+    },
+    {
+      "name": "Salesforce Account",
+      "url": "https://{instance}.salesforce.com/{accountId}",
+      "category": "Salesforce"
+    }
+  ]
+}

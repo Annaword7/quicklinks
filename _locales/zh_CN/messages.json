@@ -1,0 +1,125 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "为开发人员、产品经理和项目经理提供带变量的链接管理"
+  },
+  "templates": {
+    "message": "模板"
+  },
+  "favorites": {
+    "message": "收藏夹"
+  },
+  "history": {
+    "message": "历史"
+  },
+  "clipboard": {
+    "message": "剪贴板"
+  },
+  "clipboardHelp": {
+    "message": "复制值 - 它们会出现在这里"
+  },
+  "addTemplate": {
+    "message": "添加模板"
+  },
+  "templateName": {
+    "message": "模板名称"
+  },
+  "templateUrl": {
+    "message": "带变量的URL: https://example.com/{variable_1}/info/{variable_2}"
+  },
+  "templateCategory": {
+    "message": "类别（可选）"
+  },
+  "add": {
+    "message": "添加"
+  },
+  "filterCategory": {
+    "message": "按类别过滤："
+  },
+  "allCategories": {
+    "message": "所有类别"
+  },
+  "open": {
+    "message": "打开"
+  },
+  "addToFavorites": {
+    "message": "添加到收藏夹"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "remove": {
+    "message": "移除"
+  },
+  "clearHistory": {
+    "message": "清除历史"
+  },
+  "refresh": {
+    "message": "刷新"
+  },
+  "noTemplates": {
+    "message": "没有模板。创建您的第一个模板！"
+  },
+  "noFavorites": {
+    "message": "没有收藏"
+  },
+  "noHistory": {
+    "message": "历史为空"
+  },
+  "noClipboard": {
+    "message": "剪贴板为空"
+  },
+  "fillAllFields": {
+    "message": "请填写所有字段"
+  },
+  "templateAdded": {
+    "message": "模板已添加！"
+  },
+  "templateDeleted": {
+    "message": "模板已删除"
+  },
+  "addedToFavorites": {
+    "message": "已添加到收藏夹！"
+  },
+  "removedFromFavorites": {
+    "message": "已从收藏夹中移除"
+  },
+  "historyCleared": {
+    "message": "历史已清除"
+  },
+  "clipboardUpdated": {
+    "message": "剪贴板已更新"
+  },
+  "linkOpened": {
+    "message": "链接已打开"
+  },
+  "copied": {
+    "message": "已复制！"
+  },
+  "confirmDeleteTemplate": {
+    "message": "删除此模板？"
+  },
+  "confirmRemoveFavorite": {
+    "message": "从收藏夹中移除？"
+  },
+  "confirmClearHistory": {
+    "message": "清除所有历史？"
+  },
+  "fillNameAndUrl": {
+    "message": "请填写名称和URL"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "noCategory": {
+    "message": "无类别"
+  },
+  "languageChanged": {
+    "message": "语言已更改"
+  },
+  "leaveFeedback": {
+    "message": "留下反馈"
+  }
+}

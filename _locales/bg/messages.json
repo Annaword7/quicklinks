@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Управление на връзки с променливи за разработчици, продуктови мениджъри и ръководители на проекти",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Шаблони",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Любими",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "История",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Клипборд",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Копирайте стойности – те ще се появят тук",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Добави шаблон",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Име на шаблон",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL с променливи: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Категория (незадължително)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Добави",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Филтриране по категория:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Всички категории",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Отвори",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Добави в любими",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Изтрий",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Премахни",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Изчисти историята",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Опресни",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Няма шаблони. Създайте първия си шаблон!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Няма любими връзки",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Историята е празна",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Клипбордът е празен",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Моля, попълнете всички полета",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Шаблонът е добавен!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Шаблонът е изтрит",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Добавено в любими!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Премахнато от любими",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Историята е изчистена",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Клипбордът е обновен",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Връзката е отворена",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Копирано!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Да се изтрие ли този шаблон?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Да се премахне ли от любими?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Да се изчисти ли цялата история?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Моля, въведете ime и URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Език",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Без категория",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Езикът е сменен"
+  },
+  "leaveFeedback": {
+    "message": "Оставете обратна връзка"
+  }
+}

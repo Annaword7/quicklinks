@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Управљање везама са променљивима за програмере, менаџере производа и менаџере пројекта",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Шаблони",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Омиљени",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Историја",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Привремена меморија",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Копирајте вредности – овде ће се појавити",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Додај шаблон",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Назив шаблона",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL са променљивима: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Категорија (опционо)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Додај",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Филтрирај по категорији:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Све категорије",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Отвори",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Додај у омиљене",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Обриши",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Уклони",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Обриши историју",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Освежи",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Нема шаблона. Направите свој први шаблон!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Нема омиљених веза",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Историја је празна",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Привремена меморија је празна",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Молимо попуните сва поља",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Шаблон додат!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Шаблон обрисан",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Додато у омиљене!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Уклоњено из омиљених",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Историја обрисана",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Привремена меморија ажурирана",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Веза отворена",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Копирано!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Обрисати овај шаблон?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Уклонити из омиљених?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Обрисати сву историју?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Молимо унесите назив и URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Језик",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Без категорије",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Језик промењен"
+  },
+  "leaveFeedback": {
+    "message": "Оставите повратну информацију"
+  }
+}

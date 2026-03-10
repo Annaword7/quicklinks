@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quick Links</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header with tabs -->
+    <div class="header">
+      <div class="header-top">
+        <h1>Quick Links</h1>
+        <div class="language-selector">
+          <label data-i18n="language">Language</label>
+          <select id="language-select">
+            <option value="en">English</option>
+            <option value="ru">Русский</option>
+            <option value="de">Deutsch</option>
+            <option value="es">Español</option>
+            <option value="fr">Français</option>
+            <option value="zh_CN">中文 (简体)</option>
+            <option value="zh_TW">中文 (繁體)</option>
+            <option value="ja">日本語</option>
+            <option value="ko">한국어</option>
+            <option value="pt_BR">Português (BR)</option>
+            <option value="pt_PT">Português (PT)</option>
+            <option value="it">Italiano</option>
+            <option value="nl">Nederlands</option>
+            <option value="pl">Polski</option>
+            <option value="tr">Türkçe</option>
+            <option value="ar">العربية</option>
+            <option value="hi">हिन्दी</option>
+            <option value="th">ไทย</option>
+            <option value="vi">Tiếng Việt</option>
+            <option value="id">Bahasa Indonesia</option>
+          </select>
+        </div>
+      </div>
+      <div class="tabs">
+        <button class="tab active" data-tab="templates" data-i18n="templates">Templates</button>
+        <button class="tab" data-tab="favorites" data-i18n="favorites">Favorites</button>
+        <button class="tab" data-tab="history" data-i18n="history">History</button>
+        <button id="leave-feedback-btn" class="feedback-header-btn" data-i18n="leaveFeedback">Leave Feedback</button>
+      </div>
+    </div>
+
+    <div class="main-content">
+      <!-- Clipboard Sidebar -->
+      <div class="clipboard-sidebar">
+        <div class="clipboard-header">
+          <h3 data-i18n="clipboard">Clipboard</h3>
+          <button id="refresh-clipboard-btn" class="btn-icon" data-i18n-title="refresh" title="Refresh">🔄</button>
+        </div>
+        <div class="clipboard-help" data-i18n="clipboardHelp">
+          Copy data in browser — it will appear here (works in all new tabs opened after the extension is loaded)
+        </div>
+        <div class="clipboard-list" id="clipboard-list">
+          <!-- Clipboard items will be rendered here -->
+        </div>
+      </div>
+
+      <!-- Main Content Area -->
+      <div class="content-area">
+        <!-- Templates Tab -->
+        <div class="tab-content active" id="templates-tab">
+          <!-- Add New Template Form -->
+          <div class="add-template-section">
+            <h3 data-i18n="addTemplate">Add Template</h3>
+            <input type="text" id="template-name" data-i18n-placeholder="templateName" placeholder="Template name">
+            <input type="text" id="template-url" data-i18n-placeholder="templateUrl" placeholder="URL with variables: https://example.com/{hotelId}/info">
+            <input type="text" id="template-category" data-i18n-placeholder="templateCategory" placeholder="Category (optional)">
+            <button id="add-template-btn" class="btn-primary" data-i18n="add">Add</button>
+          </div>
+
+          <!-- Categories Filter -->
+          <div class="filter-section">
+            <label data-i18n="filterCategory">Filter by category:</label>
+            <select id="category-filter">
+              <option value="" data-i18n="allCategories">All categories</option>
+            </select>
+          </div>
+
+          <!-- Templates List -->
+          <div class="templates-list" id="templates-list">
+            <!-- Templates will be rendered here -->
+          </div>
+        </div>
+
+        <!-- Favorites Tab -->
+        <div class="tab-content" id="favorites-tab">
+          <div class="favorites-list" id="favorites-list">
+            <!-- Favorites will be rendered here -->
+          </div>
+        </div>
+
+        <!-- History Tab -->
+        <div class="tab-content" id="history-tab">
+          <div class="history-controls">
+            <button id="clear-history-btn" class="btn-danger" data-i18n="clearHistory">Clear history</button>
+          </div>
+          <div class="history-list" id="history-list">
+            <!-- History will be rendered here -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Feedback Modal -->
+  <div id="feedback-modal" class="feedback-overlay" style="display:none">
+    <div class="feedback-modal">
+      <button id="feedback-close" class="feedback-close" aria-label="Close">&times;</button>
+
+      <!-- Phase 1: Question -->
+      <div id="feedback-phase-1">
+        <div class="feedback-icon">&#11088;</div>
+        <h2 class="feedback-title">Do you like Quick Links?</h2>
+        <p class="feedback-subtitle">Your opinion helps us improve</p>
+        <div class="feedback-btns">
+          <button id="feedback-yes" class="feedback-btn-yes">Yes, love it</button>
+          <button id="feedback-no" class="feedback-btn-no">Could be better</button>
+        </div>
+      </div>
+
+      <!-- Phase 2: Text feedback -->
+      <div id="feedback-phase-2" style="display:none">
+        <div class="feedback-icon">&#128203;</div>
+        <h2 class="feedback-title">What can we improve?</h2>
+        <textarea id="feedback-text" class="feedback-textarea" placeholder="Tell us what you'd like to see improved..."></textarea>
+        <button id="feedback-submit" class="feedback-btn-yes">Send feedback</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

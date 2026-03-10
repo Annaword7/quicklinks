@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "ለገንቢዎች፣ ምርት አስተዳዳሪዎች እና ፕሮጀክት አስተዳዳሪዎች ተለዋዋጮች ያለው ሊንክ አስተዳደር",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "አብነቶች",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "ተወዳጆች",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "ታሪክ",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "ቅምጥ",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "እሴቶችን ቅዱ - እዚህ ይታያሉ",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "አብነት ጨምር",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "የአብነት ስም",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "ተለዋዋጮች ያላቸው URL: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "ምድብ (አማራጭ)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "ጨምር",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "በምድብ አጣራ:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "ሁሉም ምድቦች",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "ክፈት",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "ወደ ተወዳጆች ጨምር",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "ሰርዝ",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "አስወግድ",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "ታሪክ አጽዳ",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "አድስ",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "አብነቶች የሉም። የመጀመሪያ አብነትዎን ይፍጠሩ!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "ተወዳጅ ሊንኮች የሉም",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "ታሪክ ባዶ ነው",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "ቅምጥ ባዶ ነው",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "እባክዎ ሁሉም መስኮችን ይሙሉ",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "አብነት ተጨምሯል!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "አብነት ተሰርዟል",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "ወደ ተወዳጆች ተጨምሯል!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "ከተወዳጆች ተወግዷል",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "ታሪክ ተጽዷል",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "ቅምጥ ዘምኗል",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "ሊንክ ተከፍቷል",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "ተቀድቷል!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "ይህን አብነት ይሰርዙ?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "ከተወዳጆች ያስወግዱ?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "ሁሉም ታሪክ ያጽዱ?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "እባክዎ ስም እና URL ይሙሉ",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "ቋንቋ",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "ምድብ የለም",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "ቋንቋ ተቀይሯል"
+  },
+  "leaveFeedback": {
+    "message": "አስተያየት ይስጡ"
+  }
+}

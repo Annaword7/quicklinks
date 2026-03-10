@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Linkezelés változókkal fejlesztők, termékmenedzserek és projektmenedzserek számára",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Sablonok",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Kedvencek",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Előzmények",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Vágólap",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Másolja az értékeket – itt fognak megjelenni",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Sablon hozzáadása",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Sablon neve",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL változókkal: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategória (opcionális)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Hozzáadás",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Szűrés kategória szerint:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Minden kategória",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Megnyitás",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Hozzáadás a kedvencekhez",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Törlés",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Eltávolítás",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Előzmények törlése",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Frissítés",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Nincsenek sablonok. Hozza létre az első sablonját!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Nincsenek kedvenc linkek",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Az előzmények üresek",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "A vágólap üres",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Kérjük töltse ki az összes mezőt",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Sablon hozzáadva!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Sablon törölve",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Hozzáadva a kedvencekhez!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Eltávolítva a kedvencekből",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Előzmények törölve",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Vágólap frissítve",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Link megnyitva",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Másolva!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Törli ezt a sablont?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Eltávolítja a kedvencekből?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Törli az összes előzményt?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Kérjük töltse ki a nevet és az URL-t",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Nyelv",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Nincs kategória",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Nyelv megváltozott"
+  },
+  "leaveFeedback": {
+    "message": "Visszajelzés küldése"
+  }
+}

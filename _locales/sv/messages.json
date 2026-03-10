@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Länkhantering med variabler för utvecklare, produktchefer och projektledare",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Mallar",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Favoriter",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Historik",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Urklipp",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Kopiera värden – de visas här",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Lägg till mall",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Mallnamn",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL med variabler: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategori (valfritt)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Lägg till",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filtrera efter kategori:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Alla kategorier",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Öppna",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Lägg till favoriter",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Ta bort",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Ta bort",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Rensa historik",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Uppdatera",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Inga mallar. Skapa din första mall!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Inga favoritleankar",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Historiken är tom",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Urklipp är tomt",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Fyll i alla fält",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Mall tillagd!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Mall borttagen",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Tillagd som favorit!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Borttagen från favoriter",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Historik rensad",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Urklipp uppdaterat",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Länk öppnad",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Kopierat!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Ta bort den här mallen?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Ta bort från favoriter?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Rensa all historik?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Fyll i namn och URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Språk",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Ingen kategori",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Språk ändrat"
+  },
+  "leaveFeedback": {
+    "message": "Lämna feedback"
+  }
+}

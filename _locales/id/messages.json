@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Manajemen tautan dengan variabel untuk developer, manajer produk, dan manajer proyek",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Template",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Favorit",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Riwayat",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Papan klip",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Salin nilai - akan muncul di sini",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Tambah Template",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Nama template",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL dengan variabel: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategori (opsional)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Tambah",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "Filter berdasarkan kategori:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Semua kategori",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Buka",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Tambah ke favorit",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Hapus",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Hapus",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Hapus riwayat",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "Segarkan",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Tidak ada template. Buat template pertama Anda!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Tidak ada tautan favorit",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Riwayat kosong",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Papan klip kosong",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Silakan isi semua kolom",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Template ditambahkan!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Template dihapus",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Ditambahkan ke favorit!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Dihapus dari favorit",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Riwayat dihapus",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Papan klip diperbarui",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Tautan dibuka",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Disalin!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Hapus template ini?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Hapus dari favorit?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Hapus semua riwayat?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Silakan isi nama dan URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Bahasa",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Tanpa kategori",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Bahasa diubah"
+  },
+  "leaveFeedback": {
+    "message": "Tinggalkan umpan balik"
+  }
+}

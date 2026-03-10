@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "مدیریت لینک با متغیرها برای توسعه‌دهندگان، مدیران محصول و مدیران پروژه",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "قالب‌ها",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "علاقه‌مندی‌ها",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "تاریخچه",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "کلیپ‌بورد",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "مقادیر را کپی کنید - اینجا ظاهر می‌شوند",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "افزودن قالب",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "نام قالب",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL با متغیرها: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "دسته‌بندی (اختیاری)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "افزودن",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "فیلتر بر اساس دسته‌بندی:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "همه دسته‌بندی‌ها",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "باز کردن",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "افزودن به علاقه‌مندی‌ها",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "برداشتن",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "پاک کردن تاریخچه",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "بارگذاری مجدد",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "قالبی وجود ندارد. اولین قالب خود را بسازید!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "لینک علاقه‌مندی وجود ندارد",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "تاریخچه خالی است",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "کلیپ‌بورد خالی است",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "لطفاً همه فیلدها را پر کنید",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "قالب اضافه شد!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "قالب حذف شد",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "به علاقه‌مندی‌ها اضافه شد!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "از علاقه‌مندی‌ها حذف شد",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "تاریخچه پاک شد",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "کلیپ‌بورد به‌روز شد",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "لینک باز شد",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "کپی شد!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "این قالب را حذف کنید؟",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "از علاقه‌مندی‌ها حذف شود؟",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "همه تاریخچه پاک شود؟",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "لطفاً نام و URL را وارد کنید",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "زبان",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "بدون دسته‌بندی",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "زبان تغییر کرد"
+  },
+  "leaveFeedback": {
+    "message": "ارسال بازخورد"
+  }
+}

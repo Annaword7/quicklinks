@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Quick Links"
+  },
+  "extensionDescription": {
+    "message": "Pamamahala ng link na may mga variable para sa mga developer, product manager at project manager",
+    "description": "Description of the extension"
+  },
+  "templates": {
+    "message": "Mga Template",
+    "description": "Templates tab"
+  },
+  "favorites": {
+    "message": "Mga Paborito",
+    "description": "Favorites tab"
+  },
+  "history": {
+    "message": "Kasaysayan",
+    "description": "History tab"
+  },
+  "clipboard": {
+    "message": "Clipboard",
+    "description": "Clipboard sidebar title"
+  },
+  "clipboardHelp": {
+    "message": "Kopyahin ang mga halaga – lalabas ang mga ito dito",
+    "description": "Clipboard help text"
+  },
+  "addTemplate": {
+    "message": "Magdagdag ng Template",
+    "description": "Add template section title"
+  },
+  "templateName": {
+    "message": "Pangalan ng template",
+    "description": "Template name input placeholder"
+  },
+  "templateUrl": {
+    "message": "URL na may mga variable: https://example.com/{variable_1}/info/{variable_2}",
+    "description": "Template URL input placeholder"
+  },
+  "templateCategory": {
+    "message": "Kategorya (opsyonal)",
+    "description": "Template category input placeholder"
+  },
+  "add": {
+    "message": "Idagdag",
+    "description": "Add button"
+  },
+  "filterCategory": {
+    "message": "I-filter ayon sa kategorya:",
+    "description": "Filter by category label"
+  },
+  "allCategories": {
+    "message": "Lahat ng kategorya",
+    "description": "All categories option"
+  },
+  "open": {
+    "message": "Buksan",
+    "description": "Open button"
+  },
+  "addToFavorites": {
+    "message": "Idagdag sa mga paborito",
+    "description": "Add to favorites button"
+  },
+  "delete": {
+    "message": "Tanggalin",
+    "description": "Delete button"
+  },
+  "remove": {
+    "message": "Alisin",
+    "description": "Remove button"
+  },
+  "clearHistory": {
+    "message": "Linisin ang kasaysayan",
+    "description": "Clear history button"
+  },
+  "refresh": {
+    "message": "I-refresh",
+    "description": "Refresh button"
+  },
+  "noTemplates": {
+    "message": "Walang mga template. Lumikha ng iyong unang template!",
+    "description": "Empty templates message"
+  },
+  "noFavorites": {
+    "message": "Walang mga paboritong link",
+    "description": "Empty favorites message"
+  },
+  "noHistory": {
+    "message": "Walang kasaysayan",
+    "description": "Empty history message"
+  },
+  "noClipboard": {
+    "message": "Walang laman ang clipboard",
+    "description": "Empty clipboard message"
+  },
+  "fillAllFields": {
+    "message": "Pakipunan ang lahat ng field",
+    "description": "Fill all fields validation message"
+  },
+  "templateAdded": {
+    "message": "Template naidagdag!",
+    "description": "Template added toast"
+  },
+  "templateDeleted": {
+    "message": "Template natanggal",
+    "description": "Template deleted toast"
+  },
+  "addedToFavorites": {
+    "message": "Naidagdag sa mga paborito!",
+    "description": "Added to favorites toast"
+  },
+  "removedFromFavorites": {
+    "message": "Naalis sa mga paborito",
+    "description": "Removed from favorites toast"
+  },
+  "historyCleared": {
+    "message": "Nalinis ang kasaysayan",
+    "description": "History cleared toast"
+  },
+  "clipboardUpdated": {
+    "message": "Na-update ang clipboard",
+    "description": "Clipboard updated toast"
+  },
+  "linkOpened": {
+    "message": "Nabuksan ang link",
+    "description": "Link opened toast"
+  },
+  "copied": {
+    "message": "Nakopya!",
+    "description": "Copied toast"
+  },
+  "confirmDeleteTemplate": {
+    "message": "Tanggalin ang template na ito?",
+    "description": "Confirm delete template"
+  },
+  "confirmRemoveFavorite": {
+    "message": "Alisin sa mga paborito?",
+    "description": "Confirm remove favorite"
+  },
+  "confirmClearHistory": {
+    "message": "Linisin ang lahat ng kasaysayan?",
+    "description": "Confirm clear history"
+  },
+  "fillNameAndUrl": {
+    "message": "Pakipunan ang pangalan at URL",
+    "description": "Fill name and URL validation"
+  },
+  "language": {
+    "message": "Wika",
+    "description": "Language selector label"
+  },
+  "noCategory": {
+    "message": "Walang kategorya",
+    "description": "No category label"
+  },
+  "languageChanged": {
+    "message": "Nabago ang wika"
+  },
+  "leaveFeedback": {
+    "message": "Mag-iwan ng feedback"
+  }
+}
